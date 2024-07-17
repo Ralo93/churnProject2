@@ -1,0 +1,5 @@
+Customer ID,Gender,Married,Payment Method,Total Charges,Total Refunds,Total Extra Data Charges,Total Long Distance Charges,Total Revenue,Offer,Phone Service,Internet Service,Contract,Paperless Billing
+1,Female,Yes,Credit Card,1000,0,10,50,1100,Offer A,Yes,DSL,Month-to-month,Yes
+2,Male,No,Electronic Check,500,5,5,20,530,Offer B,Yes,Fiber optic,One year,No
+3,Female,Yes,Bank Transfer,1200,0,0,30,1230,Offer C,No,None,Two year,Yes
+4,Male,No,Mailed Check,700,10,20,60,790,Offer D,Yes,DSL,Month-to-month,Yes
